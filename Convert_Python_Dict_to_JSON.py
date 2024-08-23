@@ -64,7 +64,7 @@ books = [
     	"best sellers rank in Amazon Books": "508957",
         "reviews": [
             {"user": "Carole", "comment": "superb and timely book"},
-            {"user": "	Jan", "comment": "real story hidden behind an iron curtain of lies"}
+            {"user": "Jan", "comment": "real story hidden behind an iron curtain of lies"}
             ]
 	},
 	{
