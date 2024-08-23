@@ -93,7 +93,7 @@ person = {
 	"email": "john@example.com",
 	"address": {
     	"city": "Manchester",
-    	"zipcode": "10001",
+    	"postcode": "M10 1010",
     	"street": "123 Rusholme Street"
 	}
 }
